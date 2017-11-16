@@ -11,7 +11,7 @@ public class SpringhelloworldApplication {
 
 	@RequestMapping("/")
 	public String helloWorld() {
-		return "ready hello world!";
+		return "ready  to go ,hello world!";
 	}
 	
 	
